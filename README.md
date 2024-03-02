@@ -21,3 +21,5 @@
 • If you fail to place a block, you lose a life 
 
 • Lose 3 lives, and you’re out of the game
+
+![Alt text](images/your_image_file.png)
