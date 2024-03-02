@@ -1,4 +1,9 @@
-<span style="font-size: 100px;">Tetrecs</span>
+# Header 1
+
+This is a normal paragraph of text.
+
+<h1 style="font-size: 30px;">This text is larger than Header 1.</h1>
+
 
 # What is Tetrecs?  
 
