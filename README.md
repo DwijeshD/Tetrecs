@@ -31,7 +31,7 @@
 ## - Java
 ## - JavaFX 
 
-**JavaFX is included in JDK 8 and earlier versions. However, for JDK 11 and later, JavaFX is a separate module. Make sure to have the JavaFX libraries available on your classpath.*
+**JavaFX is included in JDK 8 and earlier versions. However, for JDK 11 and later, JavaFX is a separate module. Make sure to have the JavaFX libraries available on your classpath.**
 
 ## - Maven
 
