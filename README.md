@@ -38,17 +38,20 @@ Make sure you have the following prerequisites installed on your system:
 
 ## Steps:
 
-1. Clone the repository
+# 1. Clone the repository
   - git clone https://github.com/DwijeshD/Tetrecs.git
   - cd Tetrecs
     
-2. Build the project
+# 2. Build the project
   - mvn clean install
 
-4. Run the application
+# 4. Run the application
   - mvn javafx:run
 <br>
 Note: If you are using a modular project (Java 9 and above), replace the mvn javafx:run command with mvn clean javafx:run.
+
+
+
 <br>
 
 <p align="center">
