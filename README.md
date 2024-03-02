@@ -25,7 +25,7 @@
 ## Instructions: 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="500" style="margin-top: 20px;">
+  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Instructions.png" alt="Tetrecs Instructions" width="500" style="margin-top: 20px;">
 </p>
 
 
