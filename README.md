@@ -26,6 +26,31 @@
 
 <br> 
 
+# Installation: 
+
+## Prerequisites
+Make sure you have the following prerequisites installed on your system:
+
+- [Java](https://www.java.com/)
+- [Maven](https://maven.apache.org/)
+
+<br>
+
+## Steps:
+
+1. Clone the repository
+  - git clone https://github.com/DwijeshD/Tetrecs.git
+  - cd Tetrecs
+    
+2. Build the project
+  - mvn clean install
+
+4. Run the application
+  - mvn javafx:run
+<br>
+Note: If you are using a modular project (Java 9 and above), replace the mvn javafx:run command with mvn clean javafx:run.
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="800" style="margin-top: 20px;">
 </p>
