@@ -1,22 +1,31 @@
-# 🕹️ Tetrecs
+# 🕹️ Tetrecs  
+
 ## What is Tetrecs?  
 
-🚀 Experience the thrill of Tetrecs, a fast-paced block placement game!  
-
-🔢 Conquer the challenge within a 5x5 grid.  
-🧩 Strategically place pieces for maximum impact.  
-🏆 Score points by clearing lines, whether horizontally or vertically.  
-🔄 Rotate pieces to find the perfect fit.  
-💾 Store a piece strategically for a comeback move.  
-🚀 Rack up more points by clearing multiple lines at once.  
-🌐 Every cleared line boosts your score multiplier.  
-📈 As your score climbs, brace for intensified gameplay—less time, more challenge!  
+🚀 A thrilling, fast-paced block placement game!  
+🔢 You have a 5x5 grid to conquer.  
+🧩 Strategically place pieces in the grid.  
+🏆 Score points by clearing lines, horizontally or vertically.  
+🔄 Rotate pieces for the perfect fit.  
+💾 Store a piece for a strategic comeback.  
+🚀 The more lines you clear at once, the more points you rack up.  
+🌐 Each cleared line boosts your score multiplier.  
+📈 As your score climbs, so does the intensity - less time, more challenge!  
 💥 Fail to place a block? Lose a life.  
-❌ Lose 3 lives, and it's game over! Do you have what it takes to master the Tetrecs challenge? 🎮  
+❌ Lose 3 lives, and it's game over! Will you master the Tetrecs challenge? 🎮  
 
-<br> <!-- Add a line break for separation -->
+<br> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="500" style="margin-top: 20px;">
 </p>
+
+<br>
+
+## Instructions: 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="500" style="margin-top: 20px;">
+</p>
+
 
