@@ -1,6 +1,6 @@
-#🕹️ Tetrecs
+# 🕹️ Tetrecs
 
-##What is Tetrecs?
+## What is Tetrecs?
 
 🚀 A thrilling, fast-paced block placement game!
 
