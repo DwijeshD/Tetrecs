@@ -1,5 +1,7 @@
-🕹️ Tetrecs
-What is Tetrecs?
+#🕹️ Tetrecs
+
+##What is Tetrecs?
+
 🚀 A thrilling, fast-paced block placement game!
 
 🔢 You have a 5x5 grid to conquer.
