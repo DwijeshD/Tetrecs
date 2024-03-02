@@ -1,4 +1,4 @@
-<h1 style="font-size: 90px;">This text is larger than Header 1.</h1>
+<h1 style="font-size: 90px;">🕹️ Tetrecs</h1>
 
 # What is Tetrecs?  
 
