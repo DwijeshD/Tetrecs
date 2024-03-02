@@ -1,6 +1,6 @@
-# 🕹️ Tetrecs  
+<span style="font-size: 30px;">Tetrecs</span>
 
-## What is Tetrecs?  
+# What is Tetrecs?  
 
 🚀 A thrilling, fast-paced block placement game!  
 
