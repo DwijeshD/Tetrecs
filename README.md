@@ -38,4 +38,13 @@
   <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Instructions.png" alt="Tetrecs Instructions" width="800" style="margin-top: 20px;">
 </p>
 
+<be>
+
+# Gameplay: 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/ChallengeMode.png" alt="Tetrecs Challenge Mode" width="800" style="margin-top: 20px;">
+</p>
+
+
 
