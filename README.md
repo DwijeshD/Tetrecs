@@ -12,4 +12,4 @@
 • If you fail to place a block, you lose a life 
 • Lose 3 lives, and you’re out of the game
 
-![Alt text](https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png)
+<img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Alt text" width="300" height="200">]
