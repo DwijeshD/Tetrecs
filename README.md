@@ -1,4 +1,4 @@
-<span style="font-size: 30px;">Tetrecs</span>
+<span style="font-size: 100px;">Tetrecs</span>
 
 # What is Tetrecs?  
 
