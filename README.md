@@ -22,6 +22,8 @@ What is Tetrecs?
 
 ❌ Lose 3 lives, and it's game over! Will you master the Tetrecs challenge? 🎮
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Alt text" width="500">]
+  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Alt text" width="500">
 </p>
