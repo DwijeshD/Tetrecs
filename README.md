@@ -52,7 +52,8 @@ Make sure you have the following prerequisites installed on your system:
 <br>
 
 
-Note: If you are using a modular project (Java 9 and above), replace the mvn javafx:run command with mvn clean javafx:run.
+**Note: If you are using a modular project (Java 9 and above), replace the mvn javafx:run command with mvn clean javafx:run.**
+
 
 
 
