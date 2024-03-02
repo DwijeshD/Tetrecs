@@ -59,6 +59,8 @@ Make sure you have the following prerequisites installed on your system:
 
 <br>
 
+# Menu 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="800" style="margin-top: 20px;">
 </p>
