@@ -14,7 +14,9 @@
 💥 Fail to place a block? Lose a life.  
 ❌ Lose 3 lives, and it's game over! Do you have what it takes to master the Tetrecs challenge? 🎮  
 
+<br> <!-- Add a line break for separation -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="500">
+  <img src="https://raw.githubusercontent.com/DwijeshD/Tetrecs/main/src/main/Tetrecs%20Images/Main%20Menu.png" alt="Tetrecs Main Menu" width="500" style="margin-top: 20px;">
 </p>
-Explore the world of Tetrecs and aim for a high score! 🌟
+
